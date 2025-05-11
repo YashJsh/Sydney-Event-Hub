@@ -2,7 +2,8 @@
 
 A web application that automatically scrapes and displays events in Sydney, Australia, with email ticket booking integration.
 
-![Screenshot](screenshot.png) <!-- Add actual screenshot later -->
+![Event Page Preview](./screenshots/Event1.png)
+![Event Page](./screenshots/Event2.png)
 
 ## Features ✨
 - 🕷️ Automated event scraping from multiple sources
